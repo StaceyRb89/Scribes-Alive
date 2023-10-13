@@ -70,12 +70,11 @@ The People Powered Transcription Company? tpptc for email? Cheesy? I hate doing 
 Doing audio transcription, proofing. My full name pamela grace wyatt
 
 [
-![image](https://github.com/StaceyRb89/Scribes-Alive/assets/144110082/da39a313-2fee-421e-9a56-74cd2d106657)
-](URL)
+
 
 I like the first and second logo
 
-![image](https://github.com/StaceyRb89/Scribes-Alive/assets/144110082/58482a5c-145c-4a77-9dbf-18da82393d5b)
+
 This logo i really like
 I want the emphasis to be on people doing the work, very hands on approach
 Colour scheme something clean, professional and eye catching, not too picky on colours, colour in the logo can be changed to suit whatever you think looks great. something with some images of staff and a little write up about them. 
