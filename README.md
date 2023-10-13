@@ -86,3 +86,46 @@ https://www.transcriptioncentre.co.uk/
 https://www.rev.com/
 
 
+website layout plan
+![image](https://github.com/StaceyRb89/Scribes-Alive/assets/144110082/bfcfb679-b03d-4989-84bb-e27981d9faaf)
+1. Homepage:
+
+Header: Include your company logo and navigation menu.
+Hero Section: A visually appealing image or carousel that showcases your transcription services. Include a clear and concise headline about your unique selling point (e.g., "Accurate Human Transcription Services").
+Intro Text: Briefly introduce your company's mission and values.
+2. About Us:
+
+Team Section: Provide a section that introduces your team members with their photos, names, and a brief description of their experience. You can include a "Meet the Team" section on this page.
+Company History: Share the history and journey of your business, including the transition from working at Southampton University Library to launching your own venture.
+3. Transcription Services:
+
+Types of Transcription: Describe the types of transcription services you offer, such as verbatim and intelligent verbatim. You can use icons or images to represent each type.
+What Can Be Transcribed: Explain the audio content you can transcribe and how your service handles inaudible or unclear portions.
+4. Pricing and Payment:
+
+Pricing Structure: Detail your pricing model based on audio minutes and turnaround time.
+Payment Methods: Explain how clients can pay for your services, including your preferred payment method.
+5. Security and Privacy:
+
+File Security: Discuss how you ensure the security of audio files and transcripts.
+Confidentiality: Mention the confidentiality measures you take, such as NDAs signed by transcriptionists.
+6. Turnaround Times:
+
+Turnaround Options: List the various turnaround times available and how clients can request urgent services.
+7. Contact Us:
+
+Contact Form: Include a contact form for inquiries.
+Direct Email Link: Provide an email link for direct communication.
+File Upload: Add a secure file upload link via Dropbox for client convenience.
+8. Testimonials:
+
+Showcase client testimonials on various pages, especially on the homepage and services pages, to build trust.
+9. Proofreading Services:
+
+Include a section dedicated to your proofreading services, similar to the transcription services section.
+10. Blog/News:
+
+If you plan to provide informative content or updates, consider adding a blog or news section.
+11. Footer:
+
+Include essential links, contact details, and social media icons.
