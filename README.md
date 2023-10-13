@@ -69,7 +69,7 @@ We look forward to working with you!
 The People Powered Transcription Company? tpptc for email? Cheesy? I hate doing stuff like this 😂 creativity is not my strength. I've asked a few other people to think on it
 Doing audio transcription, proofing. My full name pamela grace wyatt
 
-[
+![image](https://github.com/StaceyRb89/Scribes-Alive/assets/144110082/58482a5c-145c-4a77-9dbf-18da82393d5b)
 
 
 I like the first and second logo
