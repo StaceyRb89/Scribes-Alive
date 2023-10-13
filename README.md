@@ -1,8 +1,12 @@
 # Scribes-Alive
 Home page
 Scribes Alive offers you a personal, reliable and accurate audio transcription service, bespoke to you and your project. 
+
 All our transcripts are produced by real people and never through AI. 
 A human transcriber can produce an accurate transcript, working through all the nuances of the subject, decipher strong accents and distinguish multiple speakers, whilst taking the extra attention to detail needed for an accurate record of what is being said. A human transcriber will also take the extra time to research names, places and technical terminology to ensure complete accuracy.
+
+** Our transcripts are exclusively crafted by human transcribers, ensuring precision in capturing subject nuances, deciphering strong accents, identifying multiple speakers, and dedicating extra effort to detail. They also research names, locations, and technical terminology to maintain complete accuracy in the transcripts. **
+
 Our team has experience working in all industries and subject areas, with an excellent ear for a wide variety of national and international accents. Every one of us takes great pride in returning fully researched, proofread and accurate transcripts for our clients. 
 Check out The Basics to make a start in planning your transcription project. If you need more information or extra help we will be happy to advise you further.
 
@@ -15,14 +19,15 @@ To carry on the ethos of an amazing woman I worked with, Val Turner, I hope to c
 Scroll on down to meet some of the core team, and watch this space for new faces!
 (the team to be added)
 
+*** - displayed as a card maybe?
 The Basics
 So you’re ready to get some audio transcribed, what do you need to consider?
 There are a variety of transcript types available depending on your needs from the end product. The two most commonly used formats are:
 Strict verbatim – your audio will be typed word-for-word, including all filler words, ums and ahs, pauses, silences and laughter.
 Intelligent verbatim – your audio will still be typed word-for-word but “cleaned” for improved readability, clarity and conciseness, whilst retaining a true reproduction of the audio. For example, the transcriber may remove the overuse of filler words such as, like and you know. This is the most common and popular choice.
-Still not sure what you need, or maybe you need aspects of strict verbatim mixed with intelligent, no problem! Just drop us an email and we can discuss a format to suit your needs.
+Still not sure what you need, or maybe you need aspects of strict verbatim mixed with intelligent, no problem! Just drop us an email and we can discuss a format to suit your needs. ***
 
-
+**frequently asked questions**
 
 What audio can be transcribed?
 Scribes Alive have years of experience transcribing a huge variety of audio including interviews, focus groups, podcasts, disciplinary hearings, speeches, dictation, meetings and roundtable discussions. If you have audio you need in the written word, we can do it!
@@ -37,8 +42,8 @@ We are happy to discuss this with you. We will need to review the audio and tran
 How do you share your files?
 To keep your audios and transcripts secure we share everything with you and our staff using Dropbox. If you have another method you would like to use we would be happy to discuss that further with you. We can work with all file types, but if you are unsure, just ask us. On rare occasions a file conversion may be necessary.
 
-Will my audio be secure?
-As mentioned above, we do all our file sharing within Dropbox for security. In addition, all our transcriptionists sign NDAs, including a section on computer and file security. When your transcript is complete all audio and transcripts will be fully deleted from all systems. 
+******* give colour - very important*****Will my audio be secure?
+As mentioned above, we do all our file sharing within Dropbox for security. In addition, all our transcriptionists sign NDAs, including a section on computer and file security. When your transcript is complete all audio and transcripts will be fully deleted from all systems. **********
 
 How fast can I get my transcript?
 We offer a variety of turnaround times and price structures. With our core team, and extended team for larger projects, we can meet quick turnarounds and projects of most sizes. 
@@ -55,7 +60,7 @@ You will be sent a link for Dropbox to download your transcript once complete. A
 What next?
 Get in touch with us to discuss your project! Once we know what you require we can create a quote, get your files uploaded, and have your transcripts back within your timeframe.
 
-Proofreading 
+**** this could be displayed next to the common types of transcribing as a service offered?*****Proofreading 
 Scribes Alive also offers a proofreading service for documents, theses, articles, books and beyond. As with the transcription service, all documents are shared securely via Dropbox. Just drop us a line to discuss and get a quote.
 We will return your document with tracked changes and notes providing comments.
 
