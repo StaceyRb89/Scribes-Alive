@@ -30,6 +30,9 @@ body{
     padding: 30px 30px;
 }
 
+/* modal */
+
+
 @media (max-width: 772px) {
       /* Center the text within the columns */
 .costing label,
@@ -40,7 +43,7 @@ body{
 
 /* Center the button horizontally */
 .costing button {
-    margin: 0 auto;
+    margin: 0;
 }
 
 /* Center the text within the labels */
