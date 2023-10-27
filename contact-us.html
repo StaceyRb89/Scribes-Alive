@@ -31,7 +31,6 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-link" href="about-us.html">About</a>
           <a class="nav-link" href="faq.html">Frequently Asked Questions</a>
           <a class="nav-link" href="contact-us.html">Contact</a>
         </div>
@@ -39,63 +38,30 @@
     </nav>
   </section>
 
-  <!-- modal -->
   <div class="container">
     <div class="row">
-      <div class="col-md-4 img-fluid">
-        <h1>hiya</h1>
-        <img src="assets/images/2.jpeg" data-target="img1" alt="" srcset="">
-      </div>
-      <div class="col-md-4 img-fluid">
-        <img src="assets/images/2.jpeg" data-target="img2" alt="" srcset="">
-      </div>
-      <div class="col-md-4 img-fluid">
-        <img src="assets/images/2.jpeg" data-target="img3" alt="" srcset="">
-      </div>
-    </div>
-  </div>
-
-  <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#staticBackdrop">
-  Launch static backdrop modal
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Meet The Team!</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <div class="row">
-          <div class="col-md-4">
-            <img src="assets/images/2.jpeg" class="img-fluid" alt="">
-            <h4>Pamela Grace Wyatt</h4>
-            <p class="small">hi my name is pamela grace wyatt u am profoudn in</p>
-          </div>
-          <div class="col-md-4">
-            <img src="assets/images/2.jpeg" class="img-fluid" alt="">
-            <h4>Pamela Grace Wyatt</h4>
-            <p class="small">hi my name is pamela grace wyatt u am profoudn in</p>
-          </div>
-          <div class="col-md-4">
-            <img src="assets/images/2.jpeg" class="img-fluid" alt="">
-            <h4>Pamela Grace Wyatt</h4>
-            <p class="small">hi my name is pamela grace wyatt u am profoudn in</p>
-          </div>
+      <div class="col-md-8 mx-auto">
+        <div class="form-container text-center">
+          <h2 class="contact">Contact Us</h2>
+          <form>
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input type="text" class="form-control" id="name" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" class="form-control" id="email" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea class="form-control" id="message" rows="4" placeholder="Your Message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-dark">Submit</button>
+          </form>
         </div>
       </div>
-      
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
     </div>
   </div>
-</div>
 
 </body>
 <!-- footer -->
